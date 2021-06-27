@@ -23,7 +23,7 @@ pip install <module name>
 
 ## Working :
 
-* As You Run the Code ,a window will pop-up to see How many Fingers of your Hand are Up.
+* As You Run the Code , a window will pop-up to see How many Fingers of your Hand are Up.
 * According to the count of Fingers which are Up ,User will be redirected to that numbered task. 
 * Tasks which User can perform are- 
   ### 1. AI Virtual Mouse :☝✌ 
@@ -48,7 +48,7 @@ pip install <module name>
     * According to the distance between user's Index finger and Thumb it displays the volume in the volume bar on the screen
     * To set the volume as the system's volume user has to bend his pinky finger simultaneously.
 
-    ![volume-control_f](https://user-images.githubusercontent.com/78357575/123513770-9952ee00-d6ac-11eb-9c55-de3e368c2641.png)
+     ![volume-control_f](https://user-images.githubusercontent.com/78357575/123513770-9952ee00-d6ac-11eb-9c55-de3e368c2641.png)
     
 ## Note :📝 
 Feel free to file a new issue with a respective title and description on the **Herculean-Hand**. If you already found a solution to your problem, I would love to review your pull request! 
